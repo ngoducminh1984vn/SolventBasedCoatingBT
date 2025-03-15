@@ -1,2 +1,1 @@
-# SolventBasedCoatingBT
- Sơn hệ dung môi của BT CHemicals
+Chào các bạn Kĩ thuật viên
