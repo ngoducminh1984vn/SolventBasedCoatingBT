@@ -359,6 +359,11 @@ o	Thông số kĩ thuật:
 	Đặc tính kỹ thuật: Khả năng bám trên bề mặt gỗ cao, không tróc, không rạn nứt. Thời gian khô màng sơn nhanh, rất tiện sử dụng.
 
 Dưới đây là thông tin về hệ màu 
+sản phẩm Bóng PU HJFD được đề cập và thông tin cho thấy sản phẩm này đã được thay thế bằng các sản phẩm khác. Cụ thể:
+Bóng PU 0805 thay thế cho Bóng PU HJFD (bóng tự nhiên).
+Bóng PU ID 0805 thay thế cho Bóng PU HJFD 1406 (bóng tự nhiên).
+Bóng PU 0805 trắng thay thế cho Bóng PU HJFD trắng (bóng trắng).
+Bóng PU ID 0805 trắng cũng thay thế cho Bóng PU ID 0805 trắng.
 Vàng cam 2RA 
 o	Ghi chú: Sơn màu Màu đắt tiền
 o	Công dụng: Sơn màu
